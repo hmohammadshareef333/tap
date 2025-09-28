@@ -1,1 +1,1 @@
-print("sone khdd"
+print("sone khdd")
